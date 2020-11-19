@@ -12,6 +12,8 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 Just import the json into Dark Reader with Settings > Manage Settings > Import
 
+Please note: on Chromium based browsers, you may have to go to Settings > Dev Tools > Preview New Design first.
+
 ## Screenshots
 
 ![Dark Reader with Rosé Pine](https://i.imgur.com/3Jsazbo.png)
