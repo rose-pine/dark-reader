@@ -22,6 +22,6 @@ Please note: on Chromium based browsers, you may have to go to Settings > Dev To
 
 - If you need a static theme, Static > Edit (pencil button) > Paste contents of `static.css`
 
-## Thanks to 
+## Thanks to
 
-- [ThatOneCalculator](https://twitter.com/that1calculator)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
