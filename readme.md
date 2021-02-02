@@ -17,7 +17,7 @@ Just import the json into Dark Reader with Settings > Manage Settings > Import
 
 Please note: on Chromium based browsers, you may have to go to Settings > Dev Tools > Preview New Design first.
 
-## Screenshots
+## Gallery
 
 ![Dark Reader with Rosé Pine](https://i.imgur.com/3Jsazbo.png)
 
