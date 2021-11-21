@@ -13,17 +13,16 @@
 
 ## Usage
 
-Just import the json into Dark Reader with Settings > Manage Settings > Import
-
-Please note: on Chromium based browsers, you may have to go to Settings > Dev Tools > Preview New Design first.
+Static (reccomended): switch mode to static, click on the pencil button, and paste in the contents of `static.css`
+Dynamic: Just import the json into Dark Reader with Settings > Manage Settings > Import
 
 ## Gallery
 
-![Dark Reader with Rosé Pine](https://i.imgur.com/3Jsazbo.png)
+![Screenshot_2021-11-20-07-37-19_2560x1440](https://user-images.githubusercontent.com/44733677/142748495-73ca7008-4ef3-41e6-a60f-d32d38958687.png)
 
-## Notes
+![Screenshot_2021-11-20-07-37-44_2560x1440](https://user-images.githubusercontent.com/44733677/142748501-fb7f48ef-ae2f-4c1e-880d-aac27ed64c1e.png)
 
-- If you need a static theme, Static > Edit (pencil button) > Paste contents of `static.css`
+![Screenshot_2021-11-20-07-38-02_2560x1440](https://user-images.githubusercontent.com/44733677/142748510-6060a8ef-fbb4-4f06-a569-624031dbacbe.png)
 
 ## Thanks to
 
