@@ -30,12 +30,12 @@
         "textStroke": 0,
         "engine": "dynamicTheme",
         "stylesheet": "",
-        "darkSchemeBackgroundColor": "#1f1d29",
-        "darkSchemeTextColor": "#e8e6e3",
-        "lightSchemeBackgroundColor": "#dcdad7",
-        "lightSchemeTextColor": "#181a1b",
+        "darkSchemeBackgroundColor": "#191724",
+        "darkSchemeTextColor": "#e0def4",
+        "lightSchemeBackgroundColor": "#faf4ed",
+        "lightSchemeTextColor": "#575279",
         "scrollbarColor": "auto",
-        "selectionColor": "#c3a5e6",
+        "selectionColor": "#c4a7e7",
         "styleSystemControls": true
     },
     "time": {
