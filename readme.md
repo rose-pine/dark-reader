@@ -13,8 +13,9 @@
 
 ## Usage
 
-Static (reccomended): switch mode to static, click on the pencil button, and paste in the contents of `static.css`
-Dynamic: Just import the json into Dark Reader with Settings > Manage Settings > Import
+* Static (reccomended): switch mode to static, click on the pencil button, and paste in the contents of `<your variant of choice>.static.css`
+
+* Dynamic: Just import the json into Dark Reader with Settings > Manage Settings > Import
 
 ## Gallery
 
