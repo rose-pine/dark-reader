@@ -13,7 +13,7 @@
 
 ## Usage
 
-* Static (reccomended): switch mode to static, click on the pencil button, and paste in the contents of `<your variant of choice>.static.css`
+* Static (recommended): switch mode to static, click on the pencil button, and paste in the contents of `<your variant of choice>.static.css`
 
 * Dynamic: Just import the json into Dark Reader with Settings > Manage Settings > Import
 
