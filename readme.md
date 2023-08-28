@@ -13,6 +13,8 @@
 
 ## Usage
 
+> Note: Rosé Pine is now available by default in Dark Reader
+
 **Static (recommended)**
 
 Switch mode to static and click on the pencil button. Then, paste in the contents of `<variant>.static.css`
