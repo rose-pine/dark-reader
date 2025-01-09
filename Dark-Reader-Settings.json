@@ -1,6 +1,10 @@
 {
     "applyToListedOnly": false,
-    "automation": "",
+    "automation": {
+        "enabled": true,
+        "mode": "system",
+        "behavior": "OnOff"
+    },
     "changeBrowserTheme": false,
     "customThemes": [],
     "enableForPDF": true,
@@ -13,10 +17,8 @@
     "notifyOfNews": false,
     "presets": [],
     "previewNewDesign": true,
-    "siteList": [
-    ],
-    "siteListEnabled": [
-    ],
+    "siteList": [],
+    "siteListEnabled": [],
     "syncSettings": true,
     "syncSitesFixes": false,
     "theme": {
